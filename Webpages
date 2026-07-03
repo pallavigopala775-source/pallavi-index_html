@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>Font Family Webpage</title>
+
+    <style>
+        .arial {
+            font-family: Arial;
+            color: blue;
+        }
+
+        .courier {
+            font-family: "Courier New";
+            color: green;
+        }
+
+        .verdana {
+            font-family: Verdana;
+            color: red;
+        }
+    </style>
+</head>
+
+
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
+    <h1 class="arial">welcome to my webpage</h1>
+
+    <h2 class="courier">i am pallavi</h2>
+    <p class="verdana">i am studying in gsss ssfgc mysuru</p>
+
+</body>
+</html>
