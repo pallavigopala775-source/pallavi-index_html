@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+
+h1{
+    margin: 50px;
+    background-color: lightblue;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Hello BCA Student</h1>
+
+</body>
+</html>
