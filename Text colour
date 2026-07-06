@@ -1,0 +1,16 @@
+
+<html>
+<head>
+    <title>Text Color</title>
+</head>
+
+<body>
+
+    <h1 style="color: red;">Hello Student</h1>
+
+    <p style="color: blue;">
+        This is colored text.
+    </p>
+
+</body>
+</html>
